@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Figtree font";
+    src: url(./assets/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+}
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree font", sans-serif;
+}
+div.container {
+    width: 400px;
+    margin: 50px auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+#img {
+    width: 100%;
+}
