@@ -13,8 +13,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 
 ### Screenshot
 
@@ -25,8 +23,8 @@ The image above is the screenshot of my project.
 
 ### Links
 
-- Solution URL: [My solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://github.com/Psalm-cell/blog-preview-card-main)
+- Live Site URL: [Live site URL](https://psalm-cell.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -58,7 +56,7 @@ I would need to sharpen my CSS skill in aspect like responsiveness, using flexbo
 
 - Website - [Adesanya Samuel Semilogo](https://www.your-site.com)
 - Frontend Mentor - [Psalm](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Adesany60857357](https://x.com/Adesany60857357)
 
 
 ## Acknowledgments
